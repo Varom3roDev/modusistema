@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+
+# Large video assets
+*.mp4
+*.mov
+
+# Temporary files
+*.tmp
+*.log
